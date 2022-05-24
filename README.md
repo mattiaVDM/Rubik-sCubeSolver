@@ -32,5 +32,3 @@ The main is an interactive menu that allows you to:
 
 - Solve the automatically generated cube: A copy of the cube is printed after each phase, furthermore, once solved, a "Step by Step" solution is proposed which displays all the moves applied starting from the original cube.
 
-I would like to have some opinion about the program and how it can be improved, I will shortly publish a more detailed description of how it works.
-Bye Bye!
