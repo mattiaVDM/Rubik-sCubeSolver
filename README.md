@@ -10,15 +10,15 @@ It is divided into five phases described in detail in this video:
 
 https://www.youtube.com/watch?v=1t1OL2zN0LQ
 
-The program works thanks to two main classes
+The program works thanks to two main classes:
 
-Cube class:
+Cube class
 
 The class contains 6 vectors that correspond to the 6 faces of the cube, each vector has 9 elements that correspond to the 9 cubes of the face. 
 Each element is a char that indicates the color of the cube that is in that particular position.
 The class also contains the input and output operators, copy constructor and all the functions that allow you to make the moves (from the rotations of the entire cube to those of the individual faces).
 
-Solver class:
+Solver class
 The solver class contains a vector of cube objects in which copies of the cubes are saved after the completion of each phase.
 It also contains the function that automatically resolves the cube.
 
