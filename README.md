@@ -1,4 +1,4 @@
-# Rubik-sCubeSolverInC
+# Rubik-sCubeSolverInC++
 
 Hello everyone!
 I'm a computer engineering student and I had my first programming exam a few months ago. 
