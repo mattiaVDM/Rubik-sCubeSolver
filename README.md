@@ -1,5 +1,7 @@
 # Rubik-sCubeSolverInC++
 
+![Immagine](https://user-images.githubusercontent.com/56454542/176896577-96192091-1e7f-4408-af98-892f6b2f211a.png)
+
 Hello everyone!
 I'm a computer engineering student and I had my first programming exam a few months ago. 
 As a project I presented a rubik cube solver (programmed in C ++ Object oriented) and I wanted to share it to get some opinions about it.
