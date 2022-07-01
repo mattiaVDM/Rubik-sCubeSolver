@@ -35,5 +35,3 @@ The main is an interactive menu that allows you to:
 - Solve the automatically generated cube: A copy of the cube is printed after each phase, furthermore, once solved, a "Step by Step" solution is proposed which displays all the moves applied starting from the original cube.
 
 I implemented a basic GUI to visualize the cube in 2D.
-
-Using simulation mode it is possible to solve n number of cubes and print resolution statistics (avg. solving moves, min. solving moves, max. solving moves). The program can solve thousands of cubes per second.
