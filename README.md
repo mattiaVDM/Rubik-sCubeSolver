@@ -12,7 +12,7 @@ It is divided into five phases described in detail in this video:
 
 https://www.youtube.com/watch?v=1t1OL2zN0LQ
 
-The program works thanks to two main classes:
+The program works using two main classes:
 
 Cube class
 
