@@ -4,7 +4,7 @@
 
 Hello everyone!
 I'm a computer engineering student and I had my first programming exam a few months ago. 
-As a project I presented a rubik cube solver (programmed in C ++ Object oriented) and I wanted to share it to get some opinions about it.
+As a project I presented a Rubik cube solver (programmed in C ++ Object oriented) and I wanted to share it to get some opinions about it.
 It may seem a bit confusing but I am a beginner with programming.
 
 The solver is based on a method called "layer by layer", it is the simplest method to solve Rubik's Cube but also the one that requires the most moves.
@@ -34,3 +34,6 @@ The main is an interactive menu that allows you to:
 
 - Solve the automatically generated cube: A copy of the cube is printed after each phase, furthermore, once solved, a "Step by Step" solution is proposed which displays all the moves applied starting from the original cube.
 
+I implemented a basic GUI to visualize the cube in 2D.
+
+Using simulation mode it is possible to solve n number of cubes and print resolution statistics (avg. solving moves, min. solving moves, max. solving moves). The program can solve thousands of cubes per second.
