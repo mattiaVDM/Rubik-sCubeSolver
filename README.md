@@ -2,7 +2,7 @@
 
 ![Immagine](https://user-images.githubusercontent.com/56454542/176896577-96192091-1e7f-4408-af98-892f6b2f211a.png)
 
-The solver is based on a method called "layer by layer", it is the simplest method to solve Rubik's Cube but also the one that requires the most moves.
+The solver is based on a method called "layer by layer", it is the simplest method to solve a Rubik's Cube.
 It is divided into five phases described in detail in this video:
 
 https://www.youtube.com/watch?v=1t1OL2zN0LQ
